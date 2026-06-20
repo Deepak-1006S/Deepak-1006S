@@ -1,4 +1,4 @@
-# 💫 Hey, I'm Deepak Suresh
+# 💫 Hey, I'm Deepak S
 
 ---
 
