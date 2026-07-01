@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Deepak S
 
-### Full Stack Developer • React • Node.js • TypeScript • MongoDB
+### Full Stack Developer | React | Node.js | TypeScript | MongoDB
 
-Building reliable full-stack web applications with clean architecture, secure backend APIs, and user-focused interfaces.
+Building modern full-stack web applications with a focus on clean architecture, secure backend APIs, AI integration, and intuitive user experiences.
 
 <p>
 
 <a href="https://deepak-portfolio-06.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Deepak-1006S">
@@ -30,102 +30,73 @@ Building reliable full-stack web applications with clean architecture, secure ba
 
 ```yaml
 Name          : Deepak S
-
 Location      : Chennai, Tamil Nadu, India
+Education     : Bachelor of Computer Applications (2024 – 2027)
 
-Education     : Bachelor of Computer Applications
-                (2024 – 2027)
+Focus Areas
+  - Full Stack Development
+  - Backend Engineering
+  - REST API Design
+  - AI-powered Web Applications
 
-Specialization:
-                Full Stack Web Development
+Currently Learning
+  - TypeScript
+  - System Design
+  - Software Architecture
 
-Current Focus :
-                Backend Development
-                REST API Design
-                React Applications
-                AI-powered Web Applications
-
-Currently Learning:
-                System Design
-                Advanced TypeScript
-                Software Architecture
-
-Open To:
-                Software Development Internship
-                SDE-1 Opportunities
+Open To
+  - Software Development Internship
+  - SDE-1 Opportunities
 ```
 
 ---
 
 # 💻 Technical Skills
 
-## Languages
+### Languages
 
-```text
-JavaScript
-TypeScript
-Java
-HTML5
-CSS3
-```
+- JavaScript (ES6+)
+- TypeScript
+- Java
+- HTML5
+- CSS3
 
-## Core Concepts
+### Core Concepts
 
-```text
-Object-Oriented Programming
+- Object-Oriented Programming (OOP)
+- Data Structures
+- REST API Design
+- Authentication & Authorization
+- Responsive Web Design
 
-Data Structures
+### Frontend
 
-REST API Design
+- React.js
+- Vite
+- Tailwind CSS
+- Context API
 
-Authentication & Authorization
+### Backend
 
-Responsive Web Design
-```
+- Node.js
+- Express.js
+- JWT Authentication
+- Socket.IO
 
-## Frontend
+### Database
 
-```text
-React.js
+- MongoDB
+- MongoDB Atlas
 
-Vite
+### Tools
 
-Tailwind CSS
-
-Context API
-```
-
-## Backend
-
-```text
-Node.js
-
-Express.js
-
-JWT Authentication
-
-Socket.IO
-```
-
-## Database
-
-```text
-MongoDB
-
-MongoDB Atlas
-```
-
-## Tools
-
-```text
-Git
-GitHub
-VS Code
-Postman
-Vercel
-Render
-Figma
-```
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vercel
+- Render
+- Figma
 
 ---
 
@@ -133,17 +104,17 @@ Figma
 
 ## 🤖 CodeForge AI
 
-AI-powered software engineering workspace designed for collaborative development.
+AI-powered collaborative software engineering workspace.
 
 ### Engineering Highlights
 
-- Developed a React and TypeScript frontend with protected application routes.
-- Built Express.js REST APIs for authentication and workspace management.
+- Built a React + TypeScript frontend with protected application routes.
+- Developed Express.js REST APIs for authentication, workspace, and project management.
 - Integrated Gemini AI to assist software development workflows.
-- Implemented Socket.IO for real-time collaboration.
-- Managed project and user data using MongoDB Atlas.
+- Implemented Socket.IO for real-time collaboration between users.
+- Managed application data using MongoDB Atlas.
 
-**Technology**
+**Tech Stack**
 
 `React` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB` • `Socket.IO` • `Gemini API`
 
@@ -151,7 +122,7 @@ AI-powered software engineering workspace designed for collaborative development
 
 ## 🚆 Railway-X
 
-Full-stack railway reservation platform with secure authentication and online payments.
+Full-stack railway reservation platform.
 
 ### Engineering Highlights
 
@@ -159,9 +130,9 @@ Full-stack railway reservation platform with secure authentication and online pa
 - Implemented JWT authentication for secure access control.
 - Integrated Razorpay payment gateway for online ticket booking.
 - Designed MongoDB collections for users, trains, bookings, and payments.
-- Developed responsive booking interfaces using React.
+- Built responsive booking interfaces using React.
 
-**Technology**
+**Tech Stack**
 
 `React` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Razorpay`
 
@@ -173,12 +144,12 @@ AI-powered interview preparation platform.
 
 ### Engineering Highlights
 
-- Built responsive React interfaces for technical interview practice.
+- Developed responsive React interfaces for interview preparation.
 - Integrated AI APIs for resume analysis and mock interview generation.
-- Developed reusable UI components for coding assessments.
-- Focused on responsive and user-friendly application design.
+- Built reusable UI components for coding assessments.
+- Focused on responsive and accessible user experience.
 
-**Technology**
+**Tech Stack**
 
 `React` • `Tailwind CSS` • `GPT API`
 
@@ -186,32 +157,30 @@ AI-powered interview preparation platform.
 
 # 💼 Experience
 
-## Full Stack Developer Intern
+## Full Stack Developer Intern — VIPS Tech
 
-**VIPS Tech**
-
-### Responsibilities
+### Key Contributions
 
 - Developed frontend modules using React.js.
 - Built REST APIs using Express.js.
 - Integrated MongoDB Atlas with backend services.
-- Implemented JWT-based authentication and protected routes.
-- Participated in testing, debugging, deployment, and feature development.
+- Implemented JWT authentication and protected routes.
+- Participated in debugging, deployment, testing, and feature development.
 
 ---
 
 # 📜 Certifications
 
+- Programming in Java (NPTEL)
 - Full Stack Web Development
 - AI & Machine Learning
 - MongoDB
 - UI / UX Design
-- NPTEL Java
 - Tally (Grade A)
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -227,21 +196,21 @@ AI-powered interview preparation platform.
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-1006S&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 ---
 
 # 🌱 Currently Working On
 
-```text
-• AI-powered Full Stack Applications
-
-• Backend API Development
-
-• TypeScript
-
-• System Design
-
-• Software Engineering Best Practices
-```
+- AI-powered Full Stack Applications
+- Backend API Development
+- TypeScript
+- System Design
+- Software Engineering Best Practices
 
 ---
 
@@ -249,10 +218,10 @@ AI-powered interview preparation platform.
 
 <p align="center">
 
-<a href="https://deepak-portfolio-06.vercel.app">Portfolio</a>
-•
+<a href="https://deepak-portfolio-06.vercel.app">🌐 Portfolio</a>
+&nbsp;•&nbsp;
 <a href="https://github.com/Deepak-1006S">GitHub</a>
-•
+&nbsp;•&nbsp;
 <a href="mailto:deepaksureshdeepak036@gmail.com">Email</a>
 
 </p>
@@ -261,6 +230,6 @@ AI-powered interview preparation platform.
 
 <div align="center">
 
-### "Always learning. Always building. Always improving."
+### 💡 Building software with curiosity, consistency, and clean engineering.
 
 </div>
