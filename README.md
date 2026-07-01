@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Deepak S
 
-### Software Development Engineer • React • Node.js • TypeScript • Java • MongoDB
+### Full Stack Developer • React • Node.js • TypeScript • MongoDB
 
-Building scalable cloud applications with clean architecture, secure backend microservices, and optimal user experiences.
+Building reliable full-stack web applications with a focus on clean architecture, secure backend APIs, and scalable software engineering practices.
 
 <p>
 
@@ -17,7 +17,7 @@ Building scalable cloud applications with clean architecture, secure backend mic
 </a>
 
 <a href="mailto:deepaksureshdeepak036@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -29,7 +29,34 @@ Building scalable cloud applications with clean architecture, secure backend mic
 # 🚀 Professional Overview
 
 ```yaml
-Name        : Deepak S
-Location    : Chennai, India
-Education   : Bachelor of Computer Applications (2024 – 2027)
-Target Roles: Software Development Engineer Intern (SDE) / SDE-1
+Name         : Deepak S
+Location     : Chennai, India
+
+Education    : Bachelor of Computer Applications
+               (2024 – 2027)
+
+Specialization:
+               Full Stack Web Development
+
+Primary Stack:
+               React.js
+               Node.js
+               TypeScript
+               MongoDB
+               Express.js
+
+Interests    :
+               Backend Engineering
+               API Development
+               AI-powered Applications
+               Software Architecture
+
+Currently Learning:
+               System Design
+               Advanced TypeScript
+               Scalable Backend Development
+
+Open To      :
+               Software Development Internship
+               SDE-1 Opportunities
+```
