@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Deepak S
 
-### Full Stack Developer | React | Node.js | TypeScript | MongoDB
+### Full Stack Developer • MERN Stack • React • Node.js • TypeScript
 
-Building modern full-stack web applications with a focus on clean architecture, secure backend APIs, AI integration, and intuitive user experiences.
+Building scalable web applications with clean architecture, secure backend APIs, and modern user experiences.
 
 <p>
 
@@ -22,81 +22,75 @@ Building modern full-stack web applications with a focus on clean architecture, 
 
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Deepak-1006S&style=for-the-badge"/>
+
 </div>
 
 ---
 
-# 🚀 Professional Overview
+# 🚀 About Me
 
 ```yaml
 Name          : Deepak S
 Location      : Chennai, Tamil Nadu, India
 Education     : Bachelor of Computer Applications (2024 – 2027)
 
-Focus Areas
-  - Full Stack Development
-  - Backend Engineering
-  - REST API Design
-  - AI-powered Web Applications
+Focus
+  • Full Stack Development
+  • Backend Engineering
+  • REST API Design
+  • AI-powered Web Applications
 
 Currently Learning
-  - TypeScript
-  - System Design
-  - Software Architecture
+  • TypeScript
+  • System Design
+  • Software Architecture
 
 Open To
-  - Software Development Internship
-  - SDE-1 Opportunities
+  • Software Development Internship
+  • SDE-1 Opportunities
 ```
 
 ---
 
-# 💻 Technical Skills
+# 💼 Highlights
+
+- 🚀 10+ Full Stack Projects
+- 🌐 Multiple Live Deployments
+- 🤖 AI-powered Web Applications
+- 🔒 Authentication & Secure REST APIs
+- ⚡ Real-time Applications using Socket.IO
+- 💼 Full Stack Developer Intern @ VIPS Tech
+- 📄 Technical Paper Presenter
+- 🎓 Certified in Java, MERN, MongoDB & AI/ML
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
-- JavaScript (ES6+)
-- TypeScript
-- Java
-- HTML5
-- CSS3
-
-### Core Concepts
-
-- Object-Oriented Programming (OOP)
-- Data Structures
-- REST API Design
-- Authentication & Authorization
-- Responsive Web Design
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,html,css"/>
+</p>
 
 ### Frontend
 
-- React.js
-- Vite
-- Tailwind CSS
-- Context API
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
-- JWT Authentication
-- Socket.IO
-
-### Database
-
-- MongoDB
-- MongoDB Atlas
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
-- Render
-- Figma
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+</p>
 
 ---
 
@@ -108,15 +102,15 @@ AI-powered collaborative software engineering workspace.
 
 ### Engineering Highlights
 
-- Built a React + TypeScript frontend with protected application routes.
-- Developed Express.js REST APIs for authentication, workspace, and project management.
+- Built a React + TypeScript frontend with role-based protected routes.
+- Developed Express.js REST APIs for authentication, projects, and workspace management.
 - Integrated Gemini AI to assist software development workflows.
-- Implemented Socket.IO for real-time collaboration between users.
-- Managed application data using MongoDB Atlas.
+- Implemented Socket.IO for real-time collaboration.
+- Designed MongoDB Atlas collections for teams, users, and projects.
 
-**Tech Stack**
+**Tech**
 
-`React` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB` • `Socket.IO` • `Gemini API`
+`React` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB` • `Socket.IO` • `Gemini AI`
 
 ---
 
@@ -126,13 +120,13 @@ Full-stack railway reservation platform.
 
 ### Engineering Highlights
 
-- Designed REST APIs for train search, booking, and user management.
-- Implemented JWT authentication for secure access control.
-- Integrated Razorpay payment gateway for online ticket booking.
-- Designed MongoDB collections for users, trains, bookings, and payments.
-- Built responsive booking interfaces using React.
+- Designed REST APIs for booking, train search, and user management.
+- Implemented secure JWT authentication and authorization.
+- Integrated Razorpay payment gateway.
+- Structured MongoDB collections for users, bookings, trains, and payments.
+- Built responsive React interfaces for booking workflows.
 
-**Tech Stack**
+**Tech**
 
 `React` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Razorpay`
 
@@ -144,12 +138,12 @@ AI-powered interview preparation platform.
 
 ### Engineering Highlights
 
-- Developed responsive React interfaces for interview preparation.
-- Integrated AI APIs for resume analysis and mock interview generation.
-- Built reusable UI components for coding assessments.
+- Developed responsive React interfaces.
+- Integrated AI APIs for resume analysis and interview generation.
+- Built reusable UI components.
 - Focused on responsive and accessible user experience.
 
-**Tech Stack**
+**Tech**
 
 `React` • `Tailwind CSS` • `GPT API`
 
@@ -165,22 +159,22 @@ AI-powered interview preparation platform.
 - Built REST APIs using Express.js.
 - Integrated MongoDB Atlas with backend services.
 - Implemented JWT authentication and protected routes.
-- Participated in debugging, deployment, testing, and feature development.
+- Participated in testing, debugging, deployment, and feature development.
 
 ---
 
-# 📜 Certifications
+# 📚 Certifications
 
-- Programming in Java (NPTEL)
-- Full Stack Web Development
-- AI & Machine Learning
-- MongoDB
-- UI / UX Design
-- Tally (Grade A)
+- 🏅 Programming in Java (NPTEL)
+- 🏅 Full Stack Web Development
+- 🏅 MongoDB
+- 🏅 AI & Machine Learning
+- 🏅 UI / UX Design
+- 🏅 Tally (Grade A)
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -206,11 +200,27 @@ AI-powered interview preparation platform.
 
 # 🌱 Currently Working On
 
-- AI-powered Full Stack Applications
-- Backend API Development
-- TypeScript
-- System Design
-- Software Engineering Best Practices
+- 🤖 AI-powered Full Stack Applications
+- ⚡ Backend API Development
+- 📘 Advanced TypeScript
+- 🏗️ System Design
+- 🧩 Software Engineering Best Practices
+
+---
+
+# 📂 Other Projects
+
+- 📦 Store Management System
+- 🔄 FlowSync Workflow Management
+- 🤝 Real-time Collaboration Platform
+- 🤖 AI CRM Dashboard
+- 🛒 E-Commerce Platform
+- 🍔 Foodie App
+- 🧙 Harry Potter Chatbot
+- 🎫 AI Customer Support Platform
+- 📒 Accounting System
+
+➡️ Explore all repositories on my GitHub profile.
 
 ---
 
@@ -219,9 +229,9 @@ AI-powered interview preparation platform.
 <p align="center">
 
 <a href="https://deepak-portfolio-06.vercel.app">🌐 Portfolio</a>
-&nbsp;•&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/Deepak-1006S">GitHub</a>
-&nbsp;•&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:deepaksureshdeepak036@gmail.com">Email</a>
 
 </p>
@@ -231,5 +241,7 @@ AI-powered interview preparation platform.
 <div align="center">
 
 ### 💡 Building software with curiosity, consistency, and clean engineering.
+
+*"Code is more than functionality—it's about creating reliable solutions that people can trust."*
 
 </div>
