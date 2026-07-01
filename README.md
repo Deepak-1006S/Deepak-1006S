@@ -1,29 +1,53 @@
 <h1 align="center">Deepak S</h1>
 
 <p align="center">
-Full Stack Developer • MERN Stack • React • Node.js • TypeScript
+  <strong>Full Stack Software Developer</strong>
 </p>
 
 <p align="center">
-Building scalable web applications with clean architecture, modern UI, and practical engineering.
+Building modern web applications with React, TypeScript, Node.js and MongoDB.
+<br/>
+Focused on scalable software, clean architecture, and user-centered products.
+</p>
+
+<p align="center">
+
+<a href="https://deepak-portfolio-06.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Deepak-1006S">
+<img src="https://img.shields.io/badge/GitHub-Deepak--1006S-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-## About
+# About
 
-```text
+```txt
 Name        Deepak S
+
 Location    Chennai, India
-Education   BCA (2024 – 2027)
+
+Education   Bachelor of Computer Applications
+            (2024 — 2027)
+
 Focus       Full Stack Development
-Learning    TypeScript • System Design • Backend Architecture
-Open To     Software Developer Internship / SDE-1
+
+Currently   React
+            TypeScript
+            Backend Architecture
+            System Design
+
+Open To     Software Developer Internship
+            SDE-1 Opportunities
 ```
 
 ---
 
-## Tech Stack
+# Technology Stack
 
 ### Languages
 
@@ -31,8 +55,8 @@ Open To     Software Developer Internship / SDE-1
 JavaScript
 TypeScript
 Java
-HTML
-CSS
+HTML5
+CSS3
 ```
 
 ### Frontend
@@ -42,6 +66,7 @@ React.js
 Vite
 Tailwind CSS
 Context API
+Responsive UI
 ```
 
 ### Backend
@@ -66,11 +91,12 @@ MongoDB Atlas
 ```text
 Git
 GitHub
-VS Code
 Postman
+VS Code
 Vercel
 Render
 Netlify
+Figma
 ```
 
 ---
@@ -79,14 +105,19 @@ Netlify
 
 ## CodeForge AI
 
-```text
-AI-powered software engineering workspace
+Production-ready AI Software Engineering Workspace
 
-• Team Collaboration
+```
+• AI Assisted Development
+
+• Team Workspace
+
 • Authentication
-• Role-Based Access
-• Real-time Updates
-• Gemini AI Integration
+
+• Role Based Access
+
+• Real-time Collaboration
+
 • Project Management
 
 Stack
@@ -94,43 +125,53 @@ Stack
 React
 TypeScript
 Node.js
-Express.js
+Express
 MongoDB
 Socket.IO
+Gemini API
 ```
 
 ---
 
 ## Railway-X
 
-```text
 Modern Railway Reservation Platform
 
-• Authentication
-• Ticket Booking
+```
+• User Authentication
+
+• Train Booking
+
 • Razorpay Integration
-• Search & Filtering
+
 • Booking History
+
+• Admin Dashboard
 
 Stack
 
 React
 Node.js
-Express.js
+Express
 MongoDB
 JWT
+Razorpay
 ```
 
 ---
 
 ## Interview-Ace AI
 
-```text
 AI Interview Preparation Platform
 
-• ATS Resume Analysis
+```
+• ATS Resume Review
+
 • AI Mock Interviews
+
 • Coding Challenges
+
+• Performance Analytics
 
 Stack
 
@@ -141,31 +182,100 @@ GPT API
 
 ---
 
-# Experience
+## Store Management System
 
-## Full Stack Developer Intern
+Inventory & Business Management Platform
 
-```text
-VIPS Tech
+```
+• Product Management
 
-• Developed MERN applications
-• Built REST APIs
-• Integrated MongoDB Atlas
-• Implemented JWT Authentication
-• Participated in deployment & testing
+• Sales Tracking
+
+• CRUD Operations
+
+• Dashboard
+
+• REST APIs
+
+Stack
+
+React
+Node.js
+Express
+MongoDB
 ```
 
 ---
 
-# GitHub
+# Experience
+
+## Full Stack Developer Intern
+
+**VIPS Tech**
+
+```text
+• Developed MERN Stack applications
+
+• Built REST APIs
+
+• Integrated MongoDB Atlas
+
+• Implemented JWT Authentication
+
+• Participated in deployment and testing
+```
+
+---
+
+# Certifications
+
+```text
+Full Stack Web Development
+
+AI & Machine Learning
+
+MongoDB
+
+UI / UX Design
+
+Tally Accounting (Grade A)
+```
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepak-1006S&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepak-1006S&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-1006S&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-1006S&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Deepak-1006S&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# What I'm Working On
+
+```text
+• Building scalable MERN applications
+
+• Learning advanced TypeScript
+
+• Backend Architecture
+
+• System Design
+
+• AI-powered Web Applications
+
+• Clean Software Engineering Practices
+```
 
 ---
 
@@ -174,11 +284,11 @@ VIPS Tech
 ```text
 Portfolio
 
-deepak-portfolio-06.vercel.app
+https://deepak-portfolio-06.vercel.app
 
 GitHub
 
-github.com/Deepak-1006S
+https://github.com/Deepak-1006S
 
 Email
 
@@ -189,6 +299,6 @@ deepaksureshdeepak036@gmail.com
 
 <p align="center">
 
-Building software with curiosity, consistency, and clean code.
+Building software that is clean, scalable, and solves real-world problems.
 
 </p>
