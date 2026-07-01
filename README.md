@@ -2,22 +2,22 @@
 
 # 👋 Hi, I'm Deepak S
 
-### Full Stack Software Developer • React • Node.js • TypeScript • MongoDB
+### Full Stack Developer • React • Node.js • TypeScript • MongoDB
 
-Building scalable web applications with clean architecture, secure backend systems, and intuitive user experiences.
+Building reliable full-stack web applications with clean architecture, secure backend APIs, and user-focused interfaces.
 
 <p>
 
 <a href="https://deepak-portfolio-06.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Deepak-1006S">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Deepak--1006S-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:deepaksureshdeepak036@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -26,24 +26,33 @@ Building scalable web applications with clean architecture, secure backend syste
 
 ---
 
-# 🚀 About Me
+# 🚀 Professional Overview
 
 ```yaml
-Name       : Deepak S
-Location   : Chennai, India
+Name          : Deepak S
 
-Education  : Bachelor of Computer Applications
-             (2024 – 2027)
+Location      : Chennai, Tamil Nadu, India
 
-Focus       : Full Stack Development
+Education     : Bachelor of Computer Applications
+                (2024 – 2027)
 
-Currently Learning
-             : TypeScript
-               System Design
-               Backend Architecture
+Specialization:
+                Full Stack Web Development
 
-Looking For : Software Developer Internship
-              SDE-1 Opportunities
+Current Focus :
+                Backend Development
+                REST API Design
+                React Applications
+                AI-powered Web Applications
+
+Currently Learning:
+                System Design
+                Advanced TypeScript
+                Software Architecture
+
+Open To:
+                Software Development Internship
+                SDE-1 Opportunities
 ```
 
 ---
@@ -110,17 +119,11 @@ MongoDB Atlas
 
 ```text
 Git
-
 GitHub
-
 VS Code
-
 Postman
-
 Vercel
-
 Render
-
 Figma
 ```
 
@@ -134,13 +137,13 @@ AI-powered software engineering workspace designed for collaborative development
 
 ### Engineering Highlights
 
-- Built a React and TypeScript frontend with protected application routes.
-- Developed Express REST APIs for authentication and workspace management.
-- Integrated Gemini AI to assist with software development workflows.
-- Implemented Socket.IO for real-time collaboration and synchronized updates.
-- Used MongoDB Atlas for persistent project and user data.
+- Developed a React and TypeScript frontend with protected application routes.
+- Built Express.js REST APIs for authentication and workspace management.
+- Integrated Gemini AI to assist software development workflows.
+- Implemented Socket.IO for real-time collaboration.
+- Managed project and user data using MongoDB Atlas.
 
-**Tech Stack**
+**Technology**
 
 `React` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB` • `Socket.IO` • `Gemini API`
 
@@ -152,13 +155,13 @@ Full-stack railway reservation platform with secure authentication and online pa
 
 ### Engineering Highlights
 
-- Designed REST APIs for user authentication, train search, booking, and ticket management.
-- Implemented JWT authentication to secure user sessions and protected routes.
-- Integrated Razorpay for online payment processing.
+- Designed REST APIs for train search, booking, and user management.
+- Implemented JWT authentication for secure access control.
+- Integrated Razorpay payment gateway for online ticket booking.
 - Designed MongoDB collections for users, trains, bookings, and payments.
-- Built responsive booking and administration interfaces using React.
+- Developed responsive booking interfaces using React.
 
-**Tech Stack**
+**Technology**
 
 `React` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Razorpay`
 
@@ -170,12 +173,12 @@ AI-powered interview preparation platform.
 
 ### Engineering Highlights
 
-- Built responsive React interfaces for interview practice.
+- Built responsive React interfaces for technical interview practice.
 - Integrated AI APIs for resume analysis and mock interview generation.
-- Developed reusable UI components for assessments and coding challenges.
-- Focused on creating an intuitive and mobile-friendly user experience.
+- Developed reusable UI components for coding assessments.
+- Focused on responsive and user-friendly application design.
 
-**Tech Stack**
+**Technology**
 
 `React` • `Tailwind CSS` • `GPT API`
 
@@ -193,7 +196,7 @@ AI-powered interview preparation platform.
 - Built REST APIs using Express.js.
 - Integrated MongoDB Atlas with backend services.
 - Implemented JWT-based authentication and protected routes.
-- Participated in testing, debugging, deployment, and feature development within the MERN stack.
+- Participated in testing, debugging, deployment, and feature development.
 
 ---
 
@@ -208,7 +211,7 @@ AI-powered interview preparation platform.
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -229,13 +232,15 @@ AI-powered interview preparation platform.
 # 🌱 Currently Working On
 
 ```text
-• Building AI-powered web applications
+• AI-powered Full Stack Applications
 
-• Improving backend architecture skills
+• Backend API Development
 
-• Learning TypeScript and System Design
+• TypeScript
 
-• Exploring scalable software engineering practices
+• System Design
+
+• Software Engineering Best Practices
 ```
 
 ---
@@ -244,11 +249,11 @@ AI-powered interview preparation platform.
 
 <p align="center">
 
-<a href="https://deepak-portfolio-06.vercel.app">🌐 Portfolio</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Deepak-1006S">💻 GitHub</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:deepaksureshdeepak036@gmail.com">📧 Email</a>
+<a href="https://deepak-portfolio-06.vercel.app">Portfolio</a>
+•
+<a href="https://github.com/Deepak-1006S">GitHub</a>
+•
+<a href="mailto:deepaksureshdeepak036@gmail.com">Email</a>
 
 </p>
 
@@ -256,6 +261,6 @@ AI-powered interview preparation platform.
 
 <div align="center">
 
-### 💡 "I enjoy building software that is clean, scalable, and solves real-world problems."
+### "Always learning. Always building. Always improving."
 
 </div>
