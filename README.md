@@ -151,16 +151,22 @@ AI-powered interview preparation platform.
 
 # 💼 Experience
 
-## Full Stack Developer Intern — VIPS Tech
+## VIPS Tech
 
-### Key Contributions
+### Full Stack Developer Intern
+- Built React.js frontend modules and Express.js REST APIs.
+- Integrated MongoDB Atlas and JWT authentication.
+- Participated in deployment, testing, and debugging.
 
-- Developed frontend modules using React.js.
-- Built REST APIs using Express.js.
-- Integrated MongoDB Atlas with backend services.
-- Implemented JWT authentication and protected routes.
-- Participated in testing, debugging, deployment, and feature development.
+### AI/ML Intern
+- Worked on AI-powered application workflows.
+- Explored NLP concepts and AI API integrations.
+- Assisted in developing intelligent application features.
 
+### UI/UX Design Intern
+- Designed responsive user interfaces and wireframes.
+- Built reusable UI components with a user-centered approach.
+- Collaborated on improving application usability.
 ---
 
 # 📚 Certifications
