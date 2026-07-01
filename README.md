@@ -1,6 +1,6 @@
-nono make me as simple and neat
+<div align="center">
 
-Deepak S
+# 👋 Hi, I'm Deepak S
 Full Stack Developer | React.js Developer | AI/ML Enthusiast
 
 Portfolio · GitHub
