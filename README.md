@@ -1,45 +1,39 @@
 <div align="center">
 
 # 👋 Hi, I'm Deepak S
-Full Stack Developer | React.js Developer | AI/ML Enthusiast
 
-Portfolio · GitHub
+### Full Stack Developer • React • Node.js • TypeScript • MongoDB
 
-About
-I'm a Full Stack Developer from Chennai, India, currently pursuing my BCA (Final Year, 2027) at Sree Muthukumaraswamy College. I build web applications using the MERN stack and enjoy working on AI-integrated projects.
+Building reliable full-stack web applications with a focus on clean architecture, secure backend APIs, and scalable software engineering practices.
 
-💼 Full Stack Intern · AI/ML Intern · UI/UX Design Intern — VIPS Tech
-🏆 Presented a technical research paper at Gojan School of Business and Technology
-📜 Certified in Full Stack Web Development, AI & Machine Learning, MongoDB, UI/UX Design, and Tally (Grade A)
-Tech Stack
-Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+<p>
 
-Frontend: React.js, React Hooks, Context API, Vite, Tailwind CSS
+<a href="https://deepak-portfolio-06.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-Backend: Node.js, Express.js, REST APIs
+<a href="https://github.com/Deepak-1006S">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-Database: MongoDB, MongoDB Atlas
+<a href="mailto:deepaksureshdeepak036@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Other: JWT Auth, Razorpay, GPT-4o API, Git, GitHub, Vercel, Figma
+</p>
 
-Projects
-Project	Stack	Live	Code
-Enterprise Store Management System	React, Node, Express, MongoDB, JWT	Live	GitHub
-FlowSync — Workflow Management	React, Context API	Live	GitHub
-Interview-Ace AI	React, Vite, Tailwind, GPT-4o	Live	GitHub
-Railway-X — Reservation Platform	React, Node, MongoDB, Razorpay	Live	GitHub
-Harry Potter Chatbot	Vanilla JS	Live	GitHub
-Foodie App	React, Cart System	Live	GitHub
-E-Commerce Platform	React, localStorage	Live	GitHub
-Real-Time Collaboration Platform	React	Live	GitHub
-AI CRM Dashboard	React, TypeScript	Live	GitHub
-AI Customer Support Platform	React, TypeScript	Live	GitHub
-Experience
-Full Stack Developer Intern — VIPS Tech
-Built and maintained web applications with React.js, worked on frontend development and API integration.
+</div>
 
-AI/ML Intern — VIPS Tech
-Explored machine learning concepts, data analysis, and AI-powered application workflows.
+---
 
-UI/UX Design Intern — VIPS Tech
-Designed responsive interfaces, created wireframes and prototypes.
+# 🚀 Professional Overview
+
+```yaml
+Name:           Deepak S
+Location:       Chennai, India
+Education:      Bachelor of Computer Applications (2024 – 2027)
+Specialization: Full Stack Web Development
+Primary Stack:  React.js • Node.js • TypeScript • MongoDB • Express.js
+Interests:      Backend Engineering • API Design • AI Apps • Software Architecture
+Learning:       System Design • Advanced TypeScript • Scalable Architecture
+Looking For:    Software Developer Internship / SDE-1 Opportunities
