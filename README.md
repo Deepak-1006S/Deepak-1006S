@@ -55,14 +55,16 @@ Open To
 
 # 💼 Highlights
 
-- 🚀 10+ Full Stack Projects
-- 🌐 Multiple Live Deployments
+- 💻 12+ Software Projects (Full Stack & Frontend)
+- 🚀 6+ Production-Ready MERN Applications
+- 🌐 Multiple Live Deployments on Vercel
 - 🤖 AI-powered Web Applications
-- 🔒 Authentication & Secure REST APIs
-- ⚡ Real-time Applications using Socket.IO
-- 💼 Full Stack Developer Intern @ VIPS Tech
-- 📄 Technical Paper Presenter
-- 🎓 Certified in Java, MERN, MongoDB & AI/ML
+- 🔒 Secure REST APIs with JWT Authentication
+- ⚡ Real-time Collaboration using Socket.IO
+- 💳 Payment Gateway Integration (Razorpay)
+- 💼 Completed 3 Internships @ VIPS Tech (Full Stack • AI/ML • UI/UX)
+- 📄 Technical Research Paper Presenter
+- 🎓 Certified in Java (NPTEL), MERN, MongoDB & AI/ML
 
 ---
 
