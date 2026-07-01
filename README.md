@@ -226,7 +226,7 @@ All visual decisions are expressed as CSS custom properties, defined once in `:r
 
 ## 📦 Projects Showcase
 
-All 10 projects are live. Every link below opens a working deployment.
+All 12projects are live. Every link below opens a working deployment.
 
 ### Full Stack — MERN
 
