@@ -244,7 +244,7 @@ All 10 projects are live. Every link below opens a working deployment.
 |---|---------|-------|------|--------|
 | 02 | **Harry Potter Chatbot** | Vanilla JS · State Machine | [Live ↗](https://harrypotter-chatbot.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/harrypotter-chatbot.git) |
 | 03 | **Foodie App** | React · CSS · Cart System | [Live ↗](https://foodie-app-pink.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/FoodieApp.git) |
-| 05 | **E-Commerce Platform** | React · Cart · localStorage | [Live ↗](https://e-commerce-sigma-ochre-92.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/ecommerce.git) |
+| 05 | **E-Commerce Platform** | React · Cart · localStorage | [Live ↗](https://e-commerce-sigma-ochre-92.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/E-Commerce.git) |
 | 06 | **Real-Time Collaboration Platform** | React · Presence UI | [Live ↗](https://scale-realtime-collabration.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/Scale--Realtime-collabration.git) |
 | 07 | **AI CRM Dashboard** | React · TypeScript · Vite | [Live ↗](https://ai-crm-dashboard-two.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/AI-CRM-Dashboard) |
 | 08 | **AI Customer Support Platform** | React · TypeScript · Ticket System | [Live ↗](https://ai-customer-support-platform-lac.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/AI-customer-support-platform) |
