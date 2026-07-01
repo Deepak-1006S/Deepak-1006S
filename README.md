@@ -16,6 +16,10 @@ Building scalable web applications with clean architecture, secure backend APIs,
 <img src="https://img.shields.io/badge/GitHub-Deepak--1006S-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://www.linkedin.com/in/deepak-S1006">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="mailto:deepaksureshdeepak036@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
