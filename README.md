@@ -29,238 +29,88 @@ Building reliable full-stack web applications with clean architecture, secure ba
 # 🚀 Professional Overview
 
 ```yaml
-Name          : Deepak S
+Name:           Deepak S
+Location:       Chennai, Tamil Nadu, India
+Education:      Bachelor of Computer Applications (2024 – 2027)
+Specialization: Full Stack Web Development
+Current Focus:  Backend Engineering • REST API Design • React • AI Web Apps
+Learning:       System Design • Advanced TypeScript • Software Architecture
+Open To:        Software Development Internship / SDE-1 Opportunities
+💻 Technical Skills
+Languages: JavaScript (ES6+), TypeScript, Java, HTML5, CSS3
 
-Location      : Chennai, Tamil Nadu, India
+Core Concepts: Object-Oriented Programming (OOPs), Data Structures, REST API Design, Authentication & Authorization, Responsive Web Design, System Design
 
-Education     : Bachelor of Computer Applications
-                (2024 – 2027)
+Frontend: React.js, Vite, Context API, Tailwind CSS
 
-Specialization:
-                Full Stack Web Development
+Backend: Node.js, Express.js, JWT Authentication, Socket.IO (Real-time Messaging)
 
-Current Focus :
-                Backend Development
-                REST API Design
-                React Applications
-                AI-powered Web Applications
+Database: MongoDB, MongoDB Atlas (Cloud Cluster Management)
 
-Currently Learning:
-                System Design
-                Advanced TypeScript
-                Software Architecture
+Tools: Git, GitHub, VS Code, Postman, Vercel, Render, Figma
 
-Open To:
-                Software Development Internship
-                SDE-1 Opportunities
-```
+⭐ Featured Projects
+🤖 CodeForge AI — AI-Powered Collaborative Workspace
+Architected a real-time development environment designed to streamline multi-user programming collaboration.
 
----
+Engineering Highlights
+State Synchronization: Implemented a bi-directional real-time event pipeline using Socket.IO to handle cross-client sync with minimal data latency.
 
-# 💻 Technical Skills
+Asynchronous AI Integration: Decoupled frontend rendering from complex computing prompts by interfacing asynchronously with the Gemini AI API.
 
-## Languages
+Type Safety & Maintainability: Built the client layer utilizing TypeScript, enforcing strict structural interfaces and removing implicit runtime bugs.
 
-```text
-JavaScript
-TypeScript
-Java
-HTML5
-CSS3
-```
+Relational Integrity: Designed nested schema models within MongoDB Atlas to map and safely partition multi-user team workspaces.
 
-## Core Concepts
+Technology: React • TypeScript • Node.js • Express.js • MongoDB • Socket.IO • Gemini API
 
-```text
-Object-Oriented Programming
+🚆 Railway-X — Transactional Reservation Engine
+Engineered a full-stack platform simulating transactional workflows for seat allocations and payment processing.
 
-Data Structures
+Engineering Highlights
+Stateless Access Control: Implemented secure session handling by building decoupled server-side verification middleware utilizing JSON Web Tokens (JWT).
 
-REST API Design
+Transactional Error Handling: Integrated the Razorpay payment gateway API, setting up structural verification checkpoints to guarantee data consistency against database booking entries.
 
-Authentication & Authorization
+Query Performance Optimization: Designed decoupled collections for Users, Trains, and Bookings in MongoDB, structuring target indices to handle lookups across regional transit timelines.
 
-Responsive Web Design
-```
+Technology: React • Node.js • Express.js • MongoDB • JWT • Razorpay
 
-## Frontend
+🎯 Interview-Ace AI — Automated Candidate Assessment Interface
+Developed a microservice-driven application processing automated resume parsing and context generation.
 
-```text
-React.js
+Engineering Highlights
+Performance Tuning: Built highly modular UI structures in React, reducing unnecessary node re-renders during high-volume diagnostic analysis streams.
 
-Vite
+Structured Data Pipelines: Standardized external JSON structures from LLM APIs to feed resume tracking and programming challenge data modules cleanly.
 
-Tailwind CSS
+Technology: React • Tailwind CSS • GPT API
 
-Context API
-```
+💼 Experience
+Full Stack Developer Intern
+VIPS Tech
 
-## Backend
+Key Contributions
+Scalable Endpoint Production: Spearheaded the engineering and routing of 10+ secure REST API endpoints using Express.js to enhance core framework flexibility.
 
-```text
-Node.js
+Auth Hardening: Developed custom server-side validation middleware with JWT architecture, completely securing application administrative and protected routes.
 
-Express.js
+Cloud Database Management: Administered cloud instances on MongoDB Atlas, writing precise database pipeline operations to extract multi-tiered customer metrics.
 
-JWT Authentication
+Deployment Lifecycle: Active contributor in Agile product loops, handling software deployment workflows, version tracing in Git, and target testing.
 
-Socket.IO
-```
+📜 Certifications & Education
+🏅 Programming in Java — NPTEL (12-Week Certified Technical Course)
 
-## Database
+🏅 Full Stack Web Development — Certified Specialist
 
-```text
-MongoDB
+🏅 MongoDB Database Foundations — Certified Specialist
 
-MongoDB Atlas
-```
+🏅 AI & Machine Learning Paradigms — Technical Certification
 
-## Tools
+🏅 UI / UX Product Design — Credentialed holder
 
-```text
-Git
-GitHub
-VS Code
-Postman
-Vercel
-Render
-Figma
-```
+🏅 TallyEssential Comprehensive — Grade A Elite
 
----
-
-# ⭐ Featured Projects
-
-## 🤖 CodeForge AI
-
-AI-powered software engineering workspace designed for collaborative development.
-
-### Engineering Highlights
-
-- Developed a React and TypeScript frontend with protected application routes.
-- Built Express.js REST APIs for authentication and workspace management.
-- Integrated Gemini AI to assist software development workflows.
-- Implemented Socket.IO for real-time collaboration.
-- Managed project and user data using MongoDB Atlas.
-
-**Technology**
-
-`React` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB` • `Socket.IO` • `Gemini API`
-
----
-
-## 🚆 Railway-X
-
-Full-stack railway reservation platform with secure authentication and online payments.
-
-### Engineering Highlights
-
-- Designed REST APIs for train search, booking, and user management.
-- Implemented JWT authentication for secure access control.
-- Integrated Razorpay payment gateway for online ticket booking.
-- Designed MongoDB collections for users, trains, bookings, and payments.
-- Developed responsive booking interfaces using React.
-
-**Technology**
-
-`React` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Razorpay`
-
----
-
-## 🎯 Interview-Ace AI
-
-AI-powered interview preparation platform.
-
-### Engineering Highlights
-
-- Built responsive React interfaces for technical interview practice.
-- Integrated AI APIs for resume analysis and mock interview generation.
-- Developed reusable UI components for coding assessments.
-- Focused on responsive and user-friendly application design.
-
-**Technology**
-
-`React` • `Tailwind CSS` • `GPT API`
-
----
-
-# 💼 Experience
-
-## Full Stack Developer Intern
-
-**VIPS Tech**
-
-### Responsibilities
-
-- Developed frontend modules using React.js.
-- Built REST APIs using Express.js.
-- Integrated MongoDB Atlas with backend services.
-- Implemented JWT-based authentication and protected routes.
-- Participated in testing, debugging, deployment, and feature development.
-
----
-
-# 📜 Certifications
-
-- Full Stack Web Development
-- AI & Machine Learning
-- MongoDB
-- UI / UX Design
-- NPTEL Java
-- Tally (Grade A)
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepak-1006S&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-1006S&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Deepak-1006S&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌱 Currently Working On
-
-```text
-• AI-powered Full Stack Applications
-
-• Backend API Development
-
-• TypeScript
-
-• System Design
-
-• Software Engineering Best Practices
-```
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="https://deepak-portfolio-06.vercel.app">Portfolio</a>
-•
-<a href="https://github.com/Deepak-1006S">GitHub</a>
-•
-<a href="mailto:deepaksureshdeepak036@gmail.com">Email</a>
-
-</p>
-
----
-
-<div align="center">
-
-### "Always learning. Always building. Always improving."
-
-</div>
+📈 GitHub Statistics
+🌐 Connect With Me
