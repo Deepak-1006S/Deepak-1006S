@@ -236,8 +236,8 @@ All 10 projects are live. Every link below opens a working deployment.
 | 04 | **FlowSync — Workflow Management** | React · Context API · Hooks | [Live ↗](https://flowsync-workflow-management.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/Flowsync-Workflow-Management.git) |
 | 09 | **Interview-Ace AI** | React · Vite · Tailwind · GPT-4o API | [Live ↗](https://interview-ace-ai-frontend-sooty.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/Interview-Ace-AI-frontend) |
 | 10 | **Railway-X — Reservation Platform** | React · Node · Express · MongoDB · JWT · Razorpay | [Live ↗](https://railway-x.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/Railway-X.git) |
-| 11 | **Accounting System — Financial Management Platform** |React.js · Node.js · Express.js · MongoDB · JWT · Vercel | [Live ](https://accounting-system-frontend-six.vercel.app/ | [Github ] (https://github.com/Deepak-1006S/Accounting-system-Frontend.git) |
-| 12 | **CodeForge AI — AI Software Engineering Workspace** | React.js · TypeScript · Node.js · Express.js · MongoDB · Socket.IO · Gemini AI · JWT · Vercel | [Live ] (https://code-forge-ai-ai-software-engineeri.vercel.app/) | [Github ] (https://github.com/Deepak-1006S/CodeForge-AI-AI-Software-Engineering-Workspace-frontend.git) |
+| 11 | **Accounting System — Financial Management Platform** |React.js · Node.js · Express.js · MongoDB · JWT · Vercel | [Live ↗](https://accounting-system-frontend-six.vercel.app/ | [GitHub ↗](https://github.com/Deepak-1006S/Accounting-system-Frontend.git) |
+| 12 | **CodeForge AI — AI Software Engineering Workspace** | React.js · TypeScript · Node.js · Express.js · MongoDB · Socket.IO · Gemini AI · JWT · Vercel | [Live ↗](https://code-forge-ai-ai-software-engineeri.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/CodeForge-AI-AI-Software-Engineering-Workspace-frontend.git) |
 ### Frontend / UI
 
 | # | Project | Stack | Live | Source |
