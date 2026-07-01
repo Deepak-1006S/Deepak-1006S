@@ -236,19 +236,20 @@ All 10 projects are live. Every link below opens a working deployment.
 | 04 | **FlowSync — Workflow Management** | React · Context API · Hooks | [Live ↗](https://flowsync-workflow-management.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/Flowsync-Workflow-Management.git) |
 | 09 | **Interview-Ace AI** | React · Vite · Tailwind · GPT-4o API | [Live ↗](https://interview-ace-ai-frontend-sooty.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/Interview-Ace-AI-frontend) |
 | 10 | **Railway-X — Reservation Platform** | React · Node · Express · MongoDB · JWT · Razorpay | [Live ↗](https://railway-x.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/Railway-X.git) |
-
+| 11 | **Accounting System — Financial Management Platform** |React.js · Node.js · Express.js · MongoDB · JWT · Vercel | [Live ](https://accounting-system-frontend-six.vercel.app/ | [Github ] (https://github.com/Deepak-1006S/Accounting-system-Frontend.git) |
+| 12 | **CodeForge AI — AI Software Engineering Workspace** | React.js · TypeScript · Node.js · Express.js · MongoDB · Socket.IO · Gemini AI · JWT · Vercel | [Live ] (https://code-forge-ai-ai-software-engineeri.vercel.app/) | [Github ] (https://github.com/Deepak-1006S/CodeForge-AI-AI-Software-Engineering-Workspace-frontend.git) |
 ### Frontend / UI
 
 | # | Project | Stack | Live | Source |
 |---|---------|-------|------|--------|
 | 02 | **Harry Potter Chatbot** | Vanilla JS · State Machine | [Live ↗](https://harrypotter-chatbot.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/harrypotter-chatbot.git) |
 | 03 | **Foodie App** | React · CSS · Cart System | [Live ↗](https://foodie-app-pink.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/FoodieApp.git) |
-| 05 | **E-Commerce Platform** | React · Cart · localStorage | [Live ↗](https://ecommerce-amh3.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/ecommerce.git) |
+| 05 | **E-Commerce Platform** | React · Cart · localStorage | [Live ↗](https://e-commerce-sigma-ochre-92.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/ecommerce.git) |
 | 06 | **Real-Time Collaboration Platform** | React · Presence UI | [Live ↗](https://scale-realtime-collabration.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/Scale--Realtime-collabration.git) |
 | 07 | **AI CRM Dashboard** | React · TypeScript · Vite | [Live ↗](https://ai-crm-dashboard-two.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/AI-CRM-Dashboard) |
 | 08 | **AI Customer Support Platform** | React · TypeScript · Ticket System | [Live ↗](https://ai-customer-support-platform-lac.vercel.app/) | [GitHub ↗](https://github.com/Deepak-1006S/AI-customer-support-platform) |
 
-> 10 projects. 10 live deployments. Every one verifiable in under 5 seconds.
+> 12 projects. 12 live deployments. Every one verifiable in under 5 seconds.
 
 ---
 
