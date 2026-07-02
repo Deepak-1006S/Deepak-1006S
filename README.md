@@ -222,15 +222,15 @@ AI-powered interview preparation platform.
 
 # 📂 Other Projects
 
-- 📦 Store Management System
-- 🔄 FlowSync Workflow Management
-- 🤝 Real-time Collaboration Platform
-- 🤖 AI CRM Dashboard
-- 🛒 E-Commerce Platform
-- 🍔 Foodie App
-- 🧙 Harry Potter Chatbot
-- 🎫 AI Customer Support Platform
-- 📒 Accounting System
+- 📦 Store Management System (A full-stack inventory and store management application for managing products, sales, billing, customers, and stock with real-time reporting.)
+- 🔄 FlowSync Workflow Management (A collaborative workflow management platform that streamlines task assignment, progress tracking, and team productivity with an intuitive dashboard.)
+- 🤝 Real-time Collaboration Platform (A real-time collaboration platform enabling instant messaging, shared workspaces, and seamless team communication using live synchronization.)
+- 🤖 AI CRM Dashboard (An AI-powered customer relationship management dashboard that automates lead tracking, customer insights, analytics, and business workflows.)
+- 🛒 E-Commerce Platform (A scalable full-stack e-commerce platform featuring secure authentication, product management, shopping cart, and online order processing.)
+- 🍔 Foodie App (A modern food ordering application with restaurant discovery, real-time menu browsing, cart management, and secure checkout.)
+- 🧙 Harry Potter Chatbot (An AI-powered Harry Potter chatbot that delivers interactive conversations, magical knowledge, character insights, and immersive fan experiences.)
+- 🎫 AI Customer Support Platform (An AI-driven customer support platform with intelligent ticket management, automated responses, live chat, and analytics for enhanced customer service.)
+- 📒 Accounting System (A comprehensive accounting management system for tracking financial transactions, invoices, expenses, payroll, and business reports efficiently.)
 
 ➡️ Explore all repositories on my GitHub profile.
 
