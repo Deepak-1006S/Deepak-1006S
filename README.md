@@ -1,68 +1,192 @@
-# Deepak S
-Full-Stack Engineer — React · Node.js · Java
+<div align="center">
 
-Chennai, India · [LinkedIn](https://linkedin.com/in/deepak-s1006) · [Portfolio](https://deepak-portfolio-06.vercel.app) · [Email](mailto:deepaksureshdeepak036@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F7C948&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Deepak+S;BCA+3rd+Year+Student;Aspiring+Software+Engineer;Full+Stack+Developer;Building+%E2%80%A2+Learning+%E2%80%A2+Growing+%E2%80%A2+Shipping" alt="Typing SVG" />
 
----
+<br/>
 
-## About
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161616,100:F7C948&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-I build full-stack products end-to-end — from database schema to deployment — across React/Node and Java stacks, with applied experience in AI/ML and agent tooling. Most of my work so far has been done independently: owning the architecture, the implementation, and the debugging without a team to fall back on. That's shaped how I approach problems — trace the full request path before touching code, understand the trade-off before picking a fix.
+### ⚡ `BUILD • LEARN • SHIP • REPEAT`
 
-## Currently
+<img src="https://komarev.com/ghpvc/?username=Deepak-1006S&label=PROFILE+VIEWS&color=F7C948&style=for-the-badge" />
 
-Interning as a **Java Full-Stack Developer at Gradtwin**, working through core Java, OOP, and data structures with an eye toward backend systems design. In parallel, applying Google Cloud Generative AI and Salesforce Agentforce tooling to real project work rather than treating them as standalone certifications.
-
----
-
-## Selected Work
-
-**CodeForge AI** — an AI-assisted software engineering workspace with organization-level workflows and an integrated coding/AI experience.
-Migrated the backend from MongoDB to PostgreSQL mid-project using Prisma, resolving data-model and relational-mapping differences across the authentication and organization-management layers without a full rewrite.
-`React` `TypeScript` `Express` `Prisma` `PostgreSQL` `JWT`
-[Repository](https://github.com/Deepak-1006S)
-
-**Railway-X** — a full-stack railway reservation system covering the complete booking lifecycle.
-REST APIs and CRUD workflows built around a self-designed MongoDB schema, with JWT-based authentication and a responsive client.
-`React` `Node.js` `Express.js` `MongoDB`
-[Repository](https://github.com/Deepak-1006S)
-
-**Interview-Ace AI** — an AI-powered interview preparation platform built around interactive, realistic interview workflows.
-`React` `AI Integration` `Responsive UI`
-[Repository](https://github.com/Deepak-1006S)
-
-*(Placeholder repository links above — replace with the actual URL for each project.)*
+</div>
 
 ---
 
-## Background
+## 👨‍💻 About Me
 
-| Role | Company | Duration |
-|---|---|---|
-| Java Full-Stack Developer Intern | Gradtwin | Jul 2026 – Present |
-| Full Stack Development Intern | VIPS.Tech | May 2026 – Jun 2026 |
-| AI & Machine Learning Intern | VIPS.Tech | May 2025 – Jun 2025 |
+```javascript
+const deepak = {
+    name: "Deepak S",
+    education: "BCA — 3rd Year",
+    role: "Aspiring Software Engineer",
 
-At VIPS.Tech, built a full-stack application independently — React, Node.js, Express, MongoDB — owning schema design, API design, and deployment. The earlier AI/ML internship covered an NLP-based chatbot built in Python, working through preprocessing, feature engineering, and hyperparameter tuning.
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Java",
+        "Backend Development",
+        "System Design"
+    ],
 
-## Toolkit
+    building: [
+        "Full-Stack Applications",
+        "AI-powered Developer Tools",
+        "SaaS Projects"
+    ],
 
-**Languages** Java · JavaScript · TypeScript · Python · SQL
-**Frontend** React.js · Next.js · Tailwind CSS
-**Backend** Node.js · Express.js · REST APIs · JWT
-**Data** MongoDB (schema design) · SQL
-**AI / Agent Tooling** Google Cloud Generative AI · Vertex AI / Agent Platform · Salesforce Agentforce · Prompt Design
+    interests: [
+        "Software Engineering",
+        "Full-Stack Development",
+        "AI Integration",
+        "Problem Solving"
+    ],
+
+    goal: "Build scalable software and become a strong Software Engineer 🚀"
+};
+```
 
 ---
 
-## Certifications
+<div align="center">
 
-Salesforce Agentblazer Champion 2026 (26 badges) · Google Cloud — Prompt Design in Agent Platform · Google Cloud — Introduction to Generative AI · HackerRank — SQL (Advanced), JavaScript (Intermediate), Problem Solving (Intermediate) · SmartBridge — MongoDB Node.js Developer Path
+## 🧠 Tech Stack
 
-## Education
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,postgres,prisma,html,css,tailwind,git,github,vscode&perline=8" />
 
-Bachelor of Computer Applications, Sree Muthukumaraswamy College, University of Madras — 2024–2027
+</div>
 
 ---
 
-*Open to full-stack Software Engineer roles.*
+<div align="center">
+
+## 🚀 What I'm Building
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=F7C948&center=true&vCenter=true&width=700&lines=AI-Powered+Developer+Tools;Full-Stack+Web+Applications;SaaS+%26+CRM+Ideas;Backend+APIs+%26+Authentication;Learning+DSA+Every+Day+%F0%9F%94%A5" />
+
+</div>
+
+---
+
+## 🏗️ Featured Projects
+
+| 🚀 Project                      | 💡 Description                            | 🛠️ Stack                      |
+| ------------------------------- | ----------------------------------------- | ------------------------------ |
+| **CodeForge AI**                | AI-powered software engineering workspace | React • TypeScript • Node • AI |
+| **Enterprise Store Management** | Full-stack store management platform      | React • Node • Express • DB    |
+| **Railway-X**                   | Railway management web application        | MERN Stack                     |
+| **Interview-Ace AI**            | AI-powered interview preparation platform | React • AI                     |
+| **FlowSync**                    | Real-time collaboration application       | React • Socket.IO              |
+| **Accounting System**           | Full-stack accounting management system   | React • Node • Database        |
+
+---
+
+<div align="center">
+
+## 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak-1006S&show_icons=true&theme=transparent&hide_border=true&title_color=F7C948&icon_color=F7C948&text_color=ffffff&bg_color=00000000" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-1006S&layout=compact&theme=transparent&hide_border=true&title_color=F7C948&text_color=ffffff&bg_color=00000000" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Deepak-1006S&theme=transparent&hide_border=true&ring=F7C948&fire=F7C948&currStreakLabel=F7C948" />
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🟡 Java Full-Stack Developer Intern — Gradtwin
+
+**Jul 2026 – Sep 2026**
+
+* Java & Object-Oriented Programming
+* Data Structures & Problem Solving
+* Backend development fundamentals
+* Practical software development workflow
+
+### 🔵 Full Stack Development Intern — VIPS.Tech
+
+**May 2026 – Jun 2026**
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* JWT Authentication
+* CRUD Applications
+* Git & GitHub
+
+### 🟣 AI & ML Intern — VIPS.Tech
+
+**May 2025 – Jun 2025**
+
+* Data preprocessing
+* Model evaluation
+* AI/ML workflows
+
+---
+
+<div align="center">
+
+## 🧩 Currently Working On
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Improving+DSA;%F0%9F%92%BB+Building+Full-Stack+Projects;%F0%9F%A4%96+Exploring+AI+Integration;%F0%9F%8C%90+Learning+Backend+Architecture;%F0%9F%9A%80+Preparing+for+Software+Engineering+Roles" />
+
+</div>
+
+---
+
+## 📜 Certifications & Achievements
+
+* 🏆 HackerRank Software Engineer
+* 🗄️ SQL Advanced
+* ⚛️ React Basic
+* 🟢 Node.js Intermediate
+* ☕ Java Basic
+* 🔗 REST API Intermediate
+* 🧠 Problem Solving Intermediate
+* 🟨 JavaScript Intermediate
+* 🍃 MongoDB Basics
+* ☕ NPTEL Java
+* 🤖 AI & ML Certification
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://deepak-portfolio-06.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=F7C948" />
+</a>
+
+<a href="https://www.linkedin.com/in/deepak-s1006/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="mailto:deepak1006.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Mindset
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=Code+is+not+just+about+making+things+work.;It's+about+learning+why+they+work.;Keep+building.+Keep+learning.+Keep+improving.+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C948,50:161616,100:000000&height=120&section=footer" width="100%"/>
+
+**⭐ Thanks for visiting my profile!**
+
+</div>
