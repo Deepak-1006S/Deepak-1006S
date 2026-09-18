@@ -1,20 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F7C948&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Deepak+S;BCA+3rd+Year+Student;Aspiring+Software+Engineer;Full+Stack+Developer;Building+%E2%80%A2+Learning+%E2%80%A2+Growing+%E2%80%A2+Shipping" alt="Typing SVG" />
+<img src="./assets/cinematic-bg.svg" width="100%" alt="Animated Developer Background"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161616,100:F7C948&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=F7C948&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+Java+%7C+TypeScript;Building+AI+%26+SaaS+Applications;Learning+DSA+Every+Day+%F0%9F%94%A5" />
 
-### ⚡ `BUILD • LEARN • SHIP • REPEAT`
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Deepak-1006S&label=PROFILE+VIEWS&color=F7C948&style=for-the-badge" />
+<a href="https://deepak-portfolio-06.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=F7C948"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deepak-s1006/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://github.com/Deepak-1006S">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="mailto:deepak1006.dev@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ `whoami`
 
 ```javascript
 const deepak = {
@@ -22,27 +36,26 @@ const deepak = {
     education: "BCA — 3rd Year",
     role: "Aspiring Software Engineer",
 
-    currentlyLearning: [
-        "Data Structures & Algorithms",
-        "Java",
-        "Backend Development",
-        "System Design"
-    ],
-
-    building: [
-        "Full-Stack Applications",
-        "AI-powered Developer Tools",
-        "SaaS Projects"
-    ],
-
-    interests: [
-        "Software Engineering",
+    focus: [
         "Full-Stack Development",
-        "AI Integration",
-        "Problem Solving"
+        "Backend Development",
+        "Data Structures & Algorithms",
+        "AI Integration"
     ],
 
-    goal: "Build scalable software and become a strong Software Engineer 🚀"
+    stack: [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "PostgreSQL"
+    ],
+
+    philosophy:
+        "Build. Break. Learn. Improve. Repeat."
 };
 ```
 
@@ -50,67 +63,86 @@ const deepak = {
 
 <div align="center">
 
-## 🧠 Tech Stack
+## 🧠 `TECH STACK`
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,postgres,prisma,html,css,tailwind,git,github,vscode&perline=8" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 What I'm Building
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=F7C948&center=true&vCenter=true&width=700&lines=AI-Powered+Developer+Tools;Full-Stack+Web+Applications;SaaS+%26+CRM+Ideas;Backend+APIs+%26+Authentication;Learning+DSA+Every+Day+%F0%9F%94%A5" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,postgres,prisma,html,css,tailwind,git,github,vscode&perline=8"/>
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+## 🚀 `FEATURED PROJECTS`
 
-| 🚀 Project                      | 💡 Description                            | 🛠️ Stack                      |
-| ------------------------------- | ----------------------------------------- | ------------------------------ |
-| **CodeForge AI**                | AI-powered software engineering workspace | React • TypeScript • Node • AI |
-| **Enterprise Store Management** | Full-stack store management platform      | React • Node • Express • DB    |
-| **Railway-X**                   | Railway management web application        | MERN Stack                     |
-| **Interview-Ace AI**            | AI-powered interview preparation platform | React • AI                     |
-| **FlowSync**                    | Real-time collaboration application       | React • Socket.IO              |
-| **Accounting System**           | Full-stack accounting management system   | React • Node • Database        |
+### 🤖 CodeForge AI
+
+AI-powered software engineering workspace for developers.
+
+**Tech:** React • TypeScript • Node.js • Express • AI • Prisma
+
+### 🚆 Railway-X
+
+Full-stack railway management application with real-world CRUD workflows.
+
+**Tech:** React • Node.js • Express • MongoDB • REST API
+
+### 🎯 Interview-Ace AI
+
+AI-powered interview preparation platform.
+
+**Tech:** React • AI • TypeScript
+
+### 🔄 FlowSync
+
+Real-time collaboration platform.
+
+**Tech:** React • Node.js • Socket.IO
+
+### 🏪 Enterprise Store Management
+
+Full-stack store management application.
+
+**Tech:** React • Node.js • Express • Database
+
+### 💰 Accounting System
+
+Full-stack accounting management platform.
+
+**Tech:** React • Node.js • REST API • Database
 
 ---
 
 <div align="center">
 
-## 📊 GitHub Activity
+## 💻 `GITHUB ACTIVITY`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deepak-1006S&show_icons=true&theme=transparent&hide_border=true&title_color=F7C948&icon_color=F7C948&text_color=ffffff&bg_color=00000000" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-1006S&layout=compact&theme=transparent&hide_border=true&title_color=F7C948&text_color=ffffff&bg_color=00000000" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak-1006S&show_icons=true&hide_border=true&theme=transparent&title_color=F7C948&icon_color=F7C948&text_color=FFFFFF"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Deepak-1006S&theme=transparent&hide_border=true&ring=F7C948&fire=F7C948&currStreakLabel=F7C948" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-1006S&layout=compact&hide_border=true&theme=transparent&title_color=F7C948&text_color=FFFFFF"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Deepak-1006S&theme=transparent&hide_border=true&ring=F7C948&fire=F7C948&currStreakLabel=F7C948"/>
 
 </div>
 
 ---
 
-## 💼 Experience
+## 💼 `EXPERIENCE`
 
-### 🟡 Java Full-Stack Developer Intern — Gradtwin
+### 🟡 Gradtwin — Java Full-Stack Developer Intern
 
-**Jul 2026 – Sep 2026**
+`Jul 2026 – Sep 2026`
 
-* Java & Object-Oriented Programming
-* Data Structures & Problem Solving
+* Java & OOP
+* DSA & problem solving
 * Backend development fundamentals
-* Practical software development workflow
+* Software development practices
 
-### 🔵 Full Stack Development Intern — VIPS.Tech
+### 🔵 VIPS.Tech — Full Stack Development Intern
 
-**May 2026 – Jun 2026**
+`May 2026 – Jun 2026`
 
 * React.js
 * Node.js
@@ -118,12 +150,12 @@ const deepak = {
 * MongoDB
 * REST APIs
 * JWT Authentication
-* CRUD Applications
+* CRUD
 * Git & GitHub
 
-### 🟣 AI & ML Intern — VIPS.Tech
+### 🟣 VIPS.Tech — AI & ML Intern
 
-**May 2025 – Jun 2025**
+`May 2025 – Jun 2025`
 
 * Data preprocessing
 * Model evaluation
@@ -133,60 +165,52 @@ const deepak = {
 
 <div align="center">
 
-## 🧩 Currently Working On
+## 🔥 `CURRENTLY LEARNING`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Improving+DSA;%F0%9F%92%BB+Building+Full-Stack+Projects;%F0%9F%A4%96+Exploring+AI+Integration;%F0%9F%8C%90+Learning+Backend+Architecture;%F0%9F%9A%80+Preparing+for+Software+Engineering+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=F7C948&center=true&vCenter=true&width=750&lines=DSA+%26+Problem+Solving;Java+%26+Backend+Development;System+Design+Fundamentals;AI+Integration;Building+Production-Ready+Applications"/>
 
 </div>
 
 ---
 
-## 📜 Certifications & Achievements
+## 📜 `CERTIFICATIONS`
 
 * 🏆 HackerRank Software Engineer
-* 🗄️ SQL Advanced
-* ⚛️ React Basic
-* 🟢 Node.js Intermediate
-* ☕ Java Basic
-* 🔗 REST API Intermediate
 * 🧠 Problem Solving Intermediate
+* ☕ Java Basic
 * 🟨 JavaScript Intermediate
+* 🗄️ SQL Advanced
+* 🟢 Node.js Intermediate
+* ⚛️ React Basic
+* 🔗 REST API Intermediate
 * 🍃 MongoDB Basics
+* 🤖 AI & ML
 * ☕ NPTEL Java
-* 🤖 AI & ML Certification
 
 ---
 
 <div align="center">
 
-## 🌐 Connect With Me
+## 🌐 `LET'S CONNECT`
 
 <a href="https://deepak-portfolio-06.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=F7C948" />
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-F7C948?style=for-the-badge&logoColor=000000"/>
 </a>
 
 <a href="https://www.linkedin.com/in/deepak-s1006/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
-<a href="mailto:deepak1006.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<a href="https://github.com/Deepak-1006S">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Deepak-1006S&style=for-the-badge&color=F7C948&label=PROFILE+VIEWS"/>
 
-<div align="center">
+<br/><br/>
 
-### 💭 Developer Mindset
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=Code+is+not+just+about+making+things+work.;It's+about+learning+why+they+work.;Keep+building.+Keep+learning.+Keep+improving.+%F0%9F%9A%80" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C948,50:161616,100:000000&height=120&section=footer" width="100%"/>
-
-**⭐ Thanks for visiting my profile!**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=F7C948&center=true&vCenter=true&width=700&lines=Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Improve;One+commit+at+a+time+%F0%9F%9A%80;BETTER+CODE+%E2%80%A2+A+BRIGHTER+FUTURE"/>
 
 </div>
