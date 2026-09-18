@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cinematic-bg.svg" width="100%" alt="Animated Developer Background"/>
+<img src="./assets/cinematic-bg.svg.png" width="100%" alt="Animated Developer Background"/>
 
 <br/>
 
